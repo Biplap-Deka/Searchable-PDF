@@ -3,3 +3,6 @@
 
 ## Tessaract must be pre-installed:
         choco install tesseract
+## pip installs:
+        pip install ocrmypdf pyinstaller
+        
